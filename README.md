@@ -60,23 +60,23 @@ I enjoy transforming complex problems into efficient software solutions while co
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 
 </p>
 
-## Backend & Databases
+## Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express,mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 </p>
 
-## Cloud, DevOps & Tooling
+## Cloud & Tooling
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode"/>
 
 </p>
 
