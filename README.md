@@ -32,17 +32,21 @@
 
 # About
 
-I am a Computer Science undergraduate focused on building production-ready software, intelligent applications, and scalable backend systems. My interests span Software Engineering, Artificial Intelligence, Data Science, Machine Learning, and Cloud Technologies.
+I’m a Computer Science undergraduate passionate about Data Analytics, Data Science, and Software Development. I enjoy working with data, uncovering meaningful insights, and building practical solutions to real-world problems.
 
-I enjoy transforming complex problems into efficient software solutions while continuously improving my engineering practices through open-source contributions, competitive programming, and real-world projects.
+My current focus is on Python, SQL, data analysis, and machine learning fundamentals, while strengthening my problem-solving skills through Java and Data Structures & Algorithms. Through projects like Retail Sales Performance Analysis, I’m continuously developing my technical skills and learning how to turn data into actionable insights.
+
+I believe in learning by building, staying consistent, and improving through hands-on projects. My goal is to grow into a skilled Data Science professional while building a strong foundation in software engineering.
 
 ### Open To
 
+### OPEN TO
+* Data Analyst Internships
+* Data Science & Machine Learning Opportunities
 * Software Engineering Internships
-* Data Science Internships
-* AI/ML Projects
+* Python & SQL Projects
 * Open Source Contributions
-* Research Collaborations
+* Collaborative Real-World Projects
 
 ---
 
@@ -51,132 +55,171 @@ I enjoy transforming complex problems into efficient software solutions while co
 ## Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,sql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" />
 </p>
 
-## Frontend
+## Data Analytics & Visualization
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Excel
+- SQL (MySQL)
+
+## Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+</p>
+
+- Scikit-learn
+- Machine Learning Fundamentals
+- Model Training & Evaluation
+- Deep Learning Fundamentals
+- CNN and LSTM Concepts
 
 ## Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## Cloud & Tooling
+- MySQL
+- SQL Queries, Joins, Functions & Aggregations
+- MongoDB Fundamentals
+
+## Development Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- MySQL Workbench
 
 ---
 
-# AI / ML Expertise
+# Current Focus
 
-| Domain             | Proficiency  | Details                        |
-| ------------------ | ------------ | ------------------------------ |
-| Data Analysis      | Advanced     | Pandas, NumPy, Visualization   |
-| Machine Learning   | Intermediate | Scikit-learn, Model Evaluation |
-| Deep Learning      | Learning     | TensorFlow, PyTorch            |
-| NLP                | Intermediate | Text Processing, Transformers  |
-| Computer Vision    | Learning     | OpenCV Fundamentals            |
-| SQL Analytics      | Advanced     | Query Optimization, Reporting  |
-| Data Visualization | Advanced     | Matplotlib, Power BI           |
+* Strengthening Python and SQL for Data Analytics
+* Learning Machine Learning and Data Science
+* Practicing Data Structures & Algorithms using Java
+* Building practical projects with real-world datasets
+* Preparing for technical interviews and campus placements
+
+---
+
+# Key Areas
+
+| Domain | Skills & Tools |
+|---|---|
+| Data Analytics | Pandas, NumPy, SQL, Data Cleaning |
+| Data Visualization | Matplotlib, Power BI, Excel |
+| Machine Learning | Scikit-learn, Model Training & Evaluation |
+| Deep Learning | CNN, LSTM, Neural Network Fundamentals |
+| Programming | Python, Java, C, C++ |
+| Databases | MySQL, SQL Queries & Data Analysis |
+| Version Control | Git, GitHub |
+
+---
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><strong>SentinelAI — AI Cyber Security War Room</strong></summary>
+<summary><strong>Retail Sales Performance Analysis</strong></summary>
 
-Enterprise-grade cybersecurity monitoring platform powered by AI for real-time threat detection, log analysis, automated incident explanation, and security dashboards.
+Data analytics project focused on exploring retail sales data, identifying trends, and extracting actionable business insights using Python and SQL.
 
-| Category    | Details                                            |
-| ----------- | -------------------------------------------------- |
-| Stack       | Python, FastAPI, ML, PostgreSQL                    |
-| Scale       | Multi-system Monitoring                            |
-| Performance | Real-time Processing                               |
-| Security    | AI Threat Detection                                |
-| Impact      | SOC Automation                                     |
-| Repository  | https://github.com/your-github-username/sentinelai |
-
-Production-ready architecture emphasizing scalability, modularity, explainable AI, and enterprise security operations.
+| Category | Details |
+|---|---|
+| Domain | Data Analytics |
+| Stack | Python, Pandas, NumPy, SQL |
+| Analysis | Sales Trends, Revenue, Product Performance |
+| Focus | Data Cleaning, Exploratory Data Analysis |
+| Impact | Data-Driven Business Insights |
+| Repository | [View on GitHub](https://github.com/ershivamkumar/Retail-Sales-Performance-Analysis) |
 
 </details>
 
 <details>
-<summary><strong>Sales Data Analytics Platform</strong></summary>
+<summary><strong>Brain Tumor Detection Using CNN-LSTM</strong></summary>
 
-End-to-end analytics platform delivering business insights from structured datasets.
+Deep learning project focused on detecting brain tumors from MRI images using a CNN-LSTM architecture.
 
-| Category    | Details                                                 |
-| ----------- | ------------------------------------------------------- |
-| Stack       | Python, Pandas, NumPy, SQL                              |
-| Scale       | Large CSV Datasets                                      |
-| Performance | Optimized Pipelines                                     |
-| Security    | Data Validation                                         |
-| Impact      | Business Intelligence                                   |
-| Repository  | https://github.com/your-github-username/sales-analytics |
-
-Interactive dashboards, KPI reporting, forecasting, and actionable insights.
+| Category | Details |
+|---|---|
+| Domain | Deep Learning, Computer Vision |
+| Stack | Python, CNN, LSTM |
+| Input | Brain MRI Images |
+| Approach | Deep Learning-Based Image Classification |
+| Reported Accuracy | 98.47% |
+| Focus | Medical Image Analysis |
 
 </details>
 
 <details>
-<summary><strong>Student Management Portal</strong></summary>
+<summary><strong>Smart Expense Tracker & Budget Analysis System</strong></summary>
 
-Modern enterprise student management system.
+Java-based application concept for managing personal expenses, organizing transactions, and generating budget summaries.
 
-| Category    | Details                                                    |
-| ----------- | ---------------------------------------------------------- |
-| Stack       | Java, Spring Boot, MySQL                                   |
-| Scale       | Multi-user                                                 |
-| Performance | REST APIs                                                  |
-| Security    | JWT Authentication                                         |
-| Impact      | Digital Administration                                     |
-| Repository  | https://github.com/your-github-username/student-management |
-
-Includes authentication, role management, CRUD operations, and responsive architecture.
+| Category | Details |
+|---|---|
+| Domain | Software Development |
+| Stack | Java, JDBC, MySQL |
+| Core Features | Expense CRUD Operations |
+| Database | MySQL |
+| Focus | Expense Management & Budget Analysis |
 
 </details>
 
 ---
 
+# Current Focus
+
+* Strengthening Data Analytics and SQL skills
+* Learning Machine Learning and Data Science
+* Practicing Java and Data Structures & Algorithms
+* Building practical projects to solve real-world problems
+
+---
+
+---
+
 # Experience
 
-### Software Engineering & AI Projects
+### Independent Projects & Technical Development
 
 **Independent Developer**
 
 **2025 – Present**
 
-Designing scalable software systems with emphasis on backend engineering, AI integration, data-driven applications, and enterprise architecture.
+Building hands-on experience through data analytics, machine learning, and software development projects. Focused on applying programming, database, and analytical skills to solve practical problems while strengthening technical foundations for industry roles.
 
-**Scope**
+**Areas of Focus**
 
-* REST API Development
-* Data Engineering
-* Machine Learning
-* Backend Architecture
-* Database Design
-* Git Workflows
-* Technical Documentation
+* Data Analysis & Exploratory Data Analysis (EDA)
+* Python & SQL
+* Machine Learning Fundamentals
+* Java & Object-Oriented Programming
+* Database Design & Querying
+* Data Visualization & Business Insights
+* Git & GitHub Version Control
+* Project Documentation
+
+---
 
 **Skills**
 
-`Java` `Python` `Spring Boot` `SQL` `Machine Learning` `Git` `REST APIs`
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Power BI` `Excel` `Machine Learning` `Scikit-learn` `Java` `OOP` `DSA` `MySQL` `Git` `GitHub`
 
 ---
 
@@ -192,23 +235,28 @@ Designing scalable software systems with emphasis on backend engineering, AI int
 
 ---
 
+
 # Certifications
 
-### AWS
+<p align="center">
 
-<img src="https://img.shields.io/badge/AWS-In%20Progress-6D28D9?style=for-the-badge&logo=amazonaws"/>
+<a href="https://drive.google.com/file/d/1lsx5eoSaVwnct4MRCdicEuao-gXDCSED/view?usp=sharing">
+<img src="https://img.shields.io/badge/Oracle-Java_Foundation_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundation Associate"/>
+</a>
 
-### Oracle
+<a href="https://drive.google.com/file/d/1RUU3w_NH_K0UbXNXL-LDu0wy0o3OYFz8/view?usp=sharing">
+<img src="https://img.shields.io/badge/Oracle-Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Data Science"/>
+</a>
 
-<img src="https://img.shields.io/badge/Oracle-Java-6D28D9?style=for-the-badge&logo=oracle"/>
+<a href="https://drive.google.com/file/d/1X8yeund_UJoFClNXnbta8loQfs0b4e1o/view?usp=sharing">
+<img src="https://img.shields.io/badge/Certified-Generative_AI_Professional-6C47FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certified Generative AI Professional"/>
+</a>
 
-### NPTEL
+<a href="https://drive.google.com/file/d/1JsGpCpJbPDr11RUa8AjQiVoAdZNBjlAV/view?usp=sharing">
+<img src="https://img.shields.io/badge/Certified-AI_Foundation-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certified AI Foundation"/>
+</a>
 
-<img src="https://img.shields.io/badge/NPTEL-Certified-5B21B6?style=for-the-badge"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-4F46E5?style=for-the-badge&logo=cisco"/>
+</p>
 
 ---
 
@@ -216,24 +264,24 @@ Designing scalable software systems with emphasis on backend engineering, AI int
 
 <p align="center">
 
+<a href="https://github.com/ershivamkumar">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-
 </a>
 
 <a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
@@ -287,34 +335,34 @@ Designing scalable software systems with emphasis on backend engineering, AI int
 </p>
 
 ---
-
 # Current Focus
 
 ```yaml
 Learning:
-  - Advanced Java
-  - Spring Boot
-  - Machine Learning
+  - Data Science & Machine Learning
+  - Python for Data Analysis
+  - SQL & Database Management
+  - Java & Object-Oriented Programming
+  - Data Structures & Algorithms
+
+Building:
+  - Data Analytics Projects
+  - Machine Learning Projects
+  - Data-Driven Applications
+  - GitHub Project Portfolio
+
+Exploring:
+  - Deep Learning
+  - Generative AI
   - Data Engineering
   - Cloud Computing
 
-Building:
-  - Enterprise Backend Systems
-  - AI Applications
-  - Data Analytics Projects
-  - Open Source Portfolio
-
-Exploring:
-  - Generative AI
-  - MLOps
-  - System Design
-  - Distributed Systems
-
 Open To:
-  - Internships
-  - Open Source
-  - Research
-  - Collaboration
+  - Data Analyst Internships
+  - Data Science Internships
+  - Software Engineering Internships
+  - Open Source Contributions
+  - Real-World Project Collaboration
 ```
 
 ---
