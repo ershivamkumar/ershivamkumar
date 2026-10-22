@@ -291,17 +291,12 @@ Building hands-on experience through data analytics, machine learning, and softw
 # GitHub Analytics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -309,9 +304,7 @@ Building hands-on experience through data analytics, machine learning, and softw
 # GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -319,9 +312,7 @@ Building hands-on experience through data analytics, machine learning, and softw
 # Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
@@ -329,43 +320,36 @@ Building hands-on experience through data analytics, machine learning, and softw
 # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
+
 # Current Focus
 
 ```yaml
 Learning:
-  - Data Science & Machine Learning
-  - Python for Data Analysis
-  - SQL & Database Management
-  - Java & Object-Oriented Programming
-  - Data Structures & Algorithms
+  - Java & Data Structures & Algorithms (DSA)
+  - Python (Pandas, Matplotlib) for Data Analytics
+  - SQL & Relational Database Management Systems
+  - Core CS (Operating Systems, DBMS, Computer Networks)
 
 Building:
-  - Data Analytics Projects
-  - Machine Learning Projects
-  - Data-Driven Applications
-  - GitHub Project Portfolio
+  - Retail Sales Data Analytics Dashboards
+  - Java-Based Expense Tracking Applications
+  - Deep Learning Models (Brain Tumor Detection)
+  - Cybersecurity Monitoring Solutions
 
 Exploring:
-  - Deep Learning
-  - Generative AI
-  - Data Engineering
-  - Cloud Computing
+  - Advanced Deep Learning & Generative AI
+  - Big Data Analytics & Data Engineering
+  - Cloud Infrastructure & Scalable Systems
 
 Open To:
-  - Data Analyst Internships
-  - Data Science Internships
-  - Software Engineering Internships
+  - Software Engineering Internships (SDE)
+  - Data Analyst & Data Engineering Internships
   - Open Source Contributions
-  - Real-World Project Collaboration
-```
-
----
+  - Full-Time Entry-Level Roles & Collaborative Projects
 
 # Connect
 
