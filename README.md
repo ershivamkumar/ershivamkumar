@@ -288,87 +288,69 @@ Building hands-on experience through data analytics, machine learning, and softw
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ershivamkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ershivamkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershivamkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-# Contribution Activity
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ershivamkumar&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# Contribution Snake
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ershivamkumar&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-# Current Focus
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ershivamkumar/ershivamkumar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Java & Data Structures & Algorithms (DSA)
-  - Python (Pandas, Matplotlib) for Data Analytics
-  - SQL & Relational Database Management Systems
-  - Core CS (Operating Systems, DBMS, Computer Networks)
+  - Data Science & Machine Learning
+  - Python for Data Analysis
+  - SQL & Database Management
+  - Java & Object-Oriented Programming
+  - Data Structures & Algorithms
 
 Building:
-  - Retail Sales Data Analytics Dashboards
-  - Java-Based Expense Tracking Applications
-  - Deep Learning Models (Brain Tumor Detection)
-  - Cybersecurity Monitoring Solutions
+  - Data Analytics Projects
+  - Machine Learning Projects
+  - Data-Driven Applications
+  - GitHub Project Portfolio
 
 Exploring:
-  - Advanced Deep Learning & Generative AI
-  - Big Data Analytics & Data Engineering
-  - Cloud Infrastructure & Scalable Systems
+  - Deep Learning
+  - Generative AI
+  - Data Engineering
+  - Cloud Computing
 
 Open To:
-  - Software Engineering Internships (SDE)
-  - Data Analyst & Data Engineering Internships
+  - Data Analyst Internships
+  - Data Science Internships
+  - Software Engineering Internships
   - Open Source Contributions
-  - Full-Time Entry-Level Roles & Collaborative Projects
-
-# Connect
-
-<p align="center">
-
-<a href="mailto:your.email@example.com">Gmail</a> • <a href="https://linkedin.com/in/shivamkumar7747">LinkedIn</a> • <a href="https://github.com/your-github-username">GitHub</a> • <a href="https://portfolio.example.com">Portfolio</a>
-
-</p>
-
----
-
-<p align="center">
-
-*"Engineering intelligent software that creates measurable impact."*
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,25:5B21B6,50:6D28D9,75:7C3AED,100:2563EB"/>
-
-</p>
+  - Real-World Project Collaboration
+```
